@@ -1,0 +1,48 @@
+site_name: Kasama Documentation
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+theme:
+  name: material
+  language: en
+  favicon: assets/favicon.png
+  logo: assets/logo_white.svg
+  features:
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
+    - navigation.tabs
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: kasama
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: kasama-dark
+      primary: black
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to system preference
+nav:
+  - Home: index.md
+  - Getting started: getting-started.md
+  - Concepts:
+    - concepts/index.md
+    - Coding Sessions: concepts/coding-sessions.md
+    - Modules: concepts/modules.md
+    - VCS Interaction: concepts/vcs-interaction.md
+    - Test Runs: concepts/test-runs.md
+    - Refactorings: concepts/refactorings.md

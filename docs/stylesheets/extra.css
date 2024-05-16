@@ -1,0 +1,19 @@
+[data-md-color-scheme="kasama"] {
+    --md-primary-fg-color:        #246EB9;
+    --md-primary-bg-color:        #FFFFFF;
+    --md-primary-fg-color--light: #246EB9;
+    --md-primary-fg-color--dark:  #90030C;
+}
+[data-md-color-scheme="kasama-dark"] {
+    --md-accent-fg-color: #246DB6;
+    --md-admonition-bg-color: rgb(30, 33, 41);
+    --md-admonition-fg-color: rgba(226, 228, 233, 0.82);
+    --md-code-bg-color: rgb(39, 42, 53);
+    --md-code-fg-color: rgba(213, 216, 226, 0.82);
+    --md-default-bg-color:       rgb(30, 33, 41);
+    --md-default-fg-color: rgba(255, 255, 255, 0.997);
+    --md-default-fg-color--light: rgba(226, 228, 233, 0.56);
+    --md-default-fg-color--lightest: hsla(225deg,15%,90%,0.12);
+    --md-typeset-a-color: #4891DB;
+    --md-typeset-color: rgba(226, 228, 233, 0.82);
+}
