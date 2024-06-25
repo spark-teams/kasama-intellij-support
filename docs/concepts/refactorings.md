@@ -8,3 +8,6 @@ In order to improve your refactoring skills, Kasama keeps track of the automated
 This helps you to discover some blind spots where you can actively try to use some kinds of refactorings more than before.
 
 The refactoring stats can be accessed in the Kasama view under **Refactorings**.
+
+![Kasama refactorings view](/assets/screenshots/refactorings.png#only-light)
+![Kasama refactorings view](/assets/screenshots/refactorings_dark.png#only-dark)

@@ -19,6 +19,10 @@ Commits you are performing in the IDE (using the IntelliJ **Commit dialog**) are
 
 The commits and related stats are shown in the **VCS Commits** diagram view.
 
+![Kasama VCS commits view](/assets/screenshots/vcs_commits.png#only-light)
+![Kasama VCS commits view](/assets/screenshots/vcs_commits_dark.png#only-dark)
+
+
 ## VCS Branches
 
 Kasama keeps track in which branches you are active.
@@ -27,6 +31,11 @@ Kasama uses snapshots to detect the branches you are active in.
 If you are active in a certain branch for a very short timespan (i.e. a few seconds), its activity might not be detected.
 
 VCS branch stats can be viewed in the Kasama View under **VCS Branches** as a list or diagram view.
+
+
+![Kasama VCS branches view](/assets/screenshots/vcs_branches.png#only-light)
+![Kasama VCS branches view](/assets/screenshots/vcs_branches_dark.png#only-dark)
+
 
 In the list view, different actions can be performed.
 
