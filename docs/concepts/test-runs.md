@@ -10,5 +10,5 @@ To assist you in analyzing your testing methodology, Kasama tracks the executed 
 
 You can see all information on the tracked test runs in the Kasama view under **Test runs**.
 
-![Kasama test runs view](/assets/screenshots/test_runs.png#only-light)
-![Kasama test runs view](/assets/screenshots/test_runs_dark.png#only-dark)
+![Kasama test runs view](../assets/screenshots/test_runs.png#only-light)
+![Kasama test runs view](../assets/screenshots/test_runs_dark.png#only-dark)

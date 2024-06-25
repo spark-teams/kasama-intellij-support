@@ -14,7 +14,7 @@ After activation, Kasama immediately starts to record your activity.
 
 In your IDE, open the Kasama view by clicking on the Kasama view tab or navigation to **View > Tool Windows > Kasama**.
 
-![Kasama overview](/assets/screenshots/overview.png#only-light)
-![Kasama overview](/assets/screenshots/overview_dark.png#only-dark)
+![Kasama overview](assets/screenshots/overview.png#only-light)
+![Kasama overview](assets/screenshots/overview_dark.png#only-dark)
 
 In addition to the overview, Kasama provides different detail views which are described in the [Concepts](concepts sections/index.md).

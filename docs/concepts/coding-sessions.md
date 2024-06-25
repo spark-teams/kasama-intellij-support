@@ -5,8 +5,8 @@ It starts automatically when UI activity is detected and ends when the IDE is id
 
 Coding sessions can be viewed in the Kasama View under **Coding Sessions** as a list or diagram view.
 
-![Kasama coding session view](/assets/screenshots/coding_sessions.png#only-light)
-![Kasama coding session view](/assets/screenshots/coding_sessions_dark.png#only-dark)
+![Kasama coding session view](../assets/screenshots/coding_sessions.png#only-light)
+![Kasama coding session view](../assets/screenshots/coding_sessions_dark.png#only-dark)
 
 In the list view, coding sessions can be edited and removed.
 
