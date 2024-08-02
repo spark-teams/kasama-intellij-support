@@ -52,7 +52,8 @@ In the list view, different actions can be performed.
     - *Documentation*
     - *Release*
     - *Integration*<br/>
-  Depending on the branch name, Kasama tries to infer the branch name automatically when encountering a new branch.
+      <p style="margin-left:-14px">Depending on the branch name, Kasama tries to infer the branch type automatically when encountering a new branch.</p>
+
 - **Combine Branches** Kasama does not track branch renamings. 
 If a branch is being renamed, the new branch might appear as a different branch.
 To address this issue, utilize this function by specifying the old branch to be incorporated into the desired new branch.
